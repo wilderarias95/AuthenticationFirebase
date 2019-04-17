@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265755997531",
+    "firebase_url": "https://authenticationfirebase-23606.firebaseio.com",
+    "project_id": "authenticationfirebase-23606",
+    "storage_bucket": "authenticationfirebase-23606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265755997531:android:5d07aae01b3709e4",
+        "android_client_info": {
+          "package_name": "com.fracessoftware.authenticationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265755997531-s3gps9bfoin01pf9502huams2n0h246d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fracessoftware.authenticationfirebase",
+            "certificate_hash": "20308a45f98265fbb4b61e237f6052fe6957aa87"
+          }
+        },
+        {
+          "client_id": "265755997531-f3m1d9ghun1emv31ibhr313gaq5v0f8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpbxqhq2oaorL7OIQDehowFCn4Nna3sbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265755997531-f3m1d9ghun1emv31ibhr313gaq5v0f8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
